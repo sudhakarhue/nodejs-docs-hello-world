@@ -1,1 +1,3 @@
+Testing file
+
 checking the code merge option
