@@ -2,4 +2,6 @@ Testing file
 
 checking the code merge option
 
+Branch rule added. 
+
 Branch rule updated. 
