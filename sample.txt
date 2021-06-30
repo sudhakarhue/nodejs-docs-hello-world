@@ -1,5 +1,0 @@
-Testing file
-
-checking the code merge option
-
-Branch rule updated. 
